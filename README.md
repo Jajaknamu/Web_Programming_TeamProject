@@ -1,4 +1,4 @@
-# JSP_Team_Project(기말 프로젝트)
+# JSP_Team_Project
 이클립스 + JSP -> 학교 청원 사이트
 
 ## 💻프로젝트 소개
